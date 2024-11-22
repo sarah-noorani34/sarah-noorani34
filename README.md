@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarah-noorani
 - 👀 I’m interested in data science, AI, ML, cloud deployment, finanace and health infomatics
-- 🌱 I’m currently learning data science and technology manangemenbt
+- 🌱 I’m currently learning data science and technology manangement
 - 💞️ I’m looking to collaborate on college level projects and hackathons 
 - 📫 How to reach me on linkedIn @ linkedin.com/in/sarah-noorani-2519a222b
 - 😄 Pronouns: she/her
